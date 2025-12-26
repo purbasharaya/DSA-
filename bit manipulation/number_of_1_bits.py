@@ -4,7 +4,7 @@
 # binary representation = 1010
 # output = 2 since there are 2 ones
 
-# we use the concent of AND operator
+# we use the concept of AND operator
 # 1 & 1 = 1
 # 1 & 0 = 0
 
