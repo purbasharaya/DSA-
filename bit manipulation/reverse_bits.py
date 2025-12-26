@@ -17,6 +17,10 @@ def reverseBits(n):
 
     return result
 
+# n & 1 gives the last bit of n
+# result << 1 shifts result 1 bit to the left
+# | is bitwise OR, "(result << 1) | bit" adds bit to result's right
+
 # lets dryrun n = 6 so that we understand better
 # iteration   n    bit   result   
 # start       110  0     000
